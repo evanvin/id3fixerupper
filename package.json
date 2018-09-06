@@ -37,6 +37,6 @@
     "get-artist-title": "1.0.0",
     "inquirer": "3.3.0",
     "levenshtein": "^1.0.5",
-    "node-id3": "0.1.0"
+    "node-id3": "0.1.5"
   }
 }
