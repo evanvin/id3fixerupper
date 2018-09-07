@@ -3,3 +3,6 @@
 
 #files
 *.mp3
+
+# Intellij JetBrains IDEs
+.idea
